@@ -1,2 +1,4 @@
 # Example Repository
-This is a sample Repo, hellow world!
+This is a sample Repo, hello coders!
+
+This is a sesond change
